@@ -27,3 +27,4 @@ print(type(estudando))
 linguagem = input("Qual é a melhor linguagem de prog? ")
 print("A melhor linguagem de prog é", linguagem)
 
+#coment
